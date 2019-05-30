@@ -11,6 +11,8 @@ Funds donated via Patreon goes directly to support Evan You's full-time work on 
 
 <br><br>
 
+<br><br>
+
 <h2 align="center">Platinum via Patreon</h2>
 
 <p align="center">
